@@ -1,0 +1,9 @@
+0.0.0
+- Thanks to AddonScriptorDE as we used some of his code as a base for this plugin
+
+0.5.0
+- First release to github
+
+0.6.0
+- resolving ramp url issues for some shows
+- resolving incomplete list of episodes for some shows
