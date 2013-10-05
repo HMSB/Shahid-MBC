@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ShahidMBC" name="Shahid MBC" version="0.6.0" provider-name="HMB">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Watch Shahid OTT</summary>
+        <language>en</language>
+        <description lang="en">Watch Shahid OTT</description>
+        <website>http://Shahid.mbc.net</website>
+    </extension>
+</addon>
